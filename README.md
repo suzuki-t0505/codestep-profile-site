@@ -1,3 +1,6 @@
+このプロジェクトは[【HTML/CSS コーディング練習】入門編：プロフィールサイト／LP](https://code-step.com/profile-menu/)のコーディングを行ったものです。
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
